@@ -2,6 +2,6 @@
 node {
   stage ("test") {
     println "Executing Jenkinsfile"
-	testlib()
+	testLib()
   }
 }
